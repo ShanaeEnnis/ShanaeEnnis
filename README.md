@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShanaeEnnis
+- 👋 Hello, I’m Shanae'
 - 👀 I’m interested in video games, fashion, and of course coding :)
 - 🌱 I’m currently learning pyhton & java.
 - 💞️ I’m looking to collaborate on any free range projects.
