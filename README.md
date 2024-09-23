@@ -1,7 +1,7 @@
 - 👋 Hello, I’m Shanae' Ennis
 - 👀 I’m interested in video games, fashion, and of course coding :)
 - 🌱 I’m currently learning and working on building a Roblox Game with my friends!
-- 💞️ I’m looking to collaborate on any free range projects.
+- 💞️ I’m looking to collaborate on any free-range projects.
 - 📫 How to reach me: Through my LinkedIn or Shoot me a message :)
 - 😄 Pronouns: She/Her
 - ⚡ Favorite Color: Pink
